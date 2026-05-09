@@ -18,7 +18,7 @@ Robust evaluation metrics are essential for guiding multi-subject controllable i
 
 The full dataset, including reference subjects, compositional prompts, and pixel-aligned ground truth images, is hosted on Google Drive.
 
-* 📥 **[Download SIGBenchmark from Google Drive (https://drive.google.com/drive/folders/1H4VZexNrGFQMEwnPoHHjR3M2JX1Ucw6I?usp=drive_link)](#)**
+* 📥 **[Download SIGBenchmark from Google Drive](https://drive.google.com/drive/folders/1H4VZexNrGFQMEwnPoHHjR3M2JX1Ucw6I?usp=drive_link)**
 
 ### Data Structure
 
