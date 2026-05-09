@@ -1,5 +1,9 @@
 <h1 align="center">MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport</h1>
 
+## Code Release
+The source code for this project will be made publicly available once our paper is accepted for publication.
+
+
 ## SIGBenchmark: A Novel Benchmark for Multi-Subject Controllable Image Generation
 
 [![Dataset](https://img.shields.io/badge/Dataset-Google_Drive-blue.svg)](#dataset-download)
